@@ -11,5 +11,8 @@ public class TestController {
         System.out.println("555555555");
         System.out.println("666666666");
         System.out.println("github111111");
+        int a = 10;
+        int b = 20;
+        int c = 30;
     }
 }
